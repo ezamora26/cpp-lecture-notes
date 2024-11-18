@@ -16,6 +16,12 @@ foo.dat (copy & paste into a new file to use):
 
 using namespace std;
 
+
+int x=0;
+for (int i = 0; i<3;i++) {
+x+=
+  }
+
 int main(void) {
 
   // Open file "foo.dat" for reading data 
